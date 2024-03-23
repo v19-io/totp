@@ -1,6 +1,6 @@
 {
   "name": "@v19/totp",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "license": "MIT",
   "type": "module",
   "scripts": {
